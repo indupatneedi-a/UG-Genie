@@ -1,10 +1,7 @@
 # UG-GENIE — Career Guidance Chatbot 🎓🤖
 
 A chatbot that helps undergraduate students explore courses that fit their interests and academic strengths — built with **Botpress** by a 4-member team as a capstone project.
-
-<!-- Add your LinkedIn/project screenshot here once uploaded to the repo, e.g.: -->
-<!-- ![UG-GENIE Screenshot](./assets/ug-genie-screenshot.png) -->
-
+<img width="720" height="1007" alt="WhatsApp Image 2026-08-23 at 8 40 10 PM" src="https://github.com/user-attachments/assets/f8a6f405-fece-4042-87be-58fe40871426" />
 ## 🔗 Live Demo
 
 [Try UG-GENIE ↗](https://web-uggenie.github.io/home)
@@ -33,10 +30,8 @@ This project was built collaboratively by a 4-member team:
 - Chatbot workflow design and functional testing
 - Prototype presentation
 - Evaluation sessions with students, parents, and academic counsellors — feedback used to improve accessibility and guidance quality
-
-## 📸 Screenshots
-
-> Add screenshots of the chatbot in action here (drag images into this repo's `assets/` folder and reference them like the example above).
+<img width="1291" height="875" alt="Screenshot 2026-08-23 205011" src="https://github.com/user-attachments/assets/948b96a4-1786-484c-9e2d-62484e160d25" />
+<img width="1873" height="930" alt="Screenshot 2026-08-23 205058" src="https://github.com/user-attachments/assets/ebedb7e1-7acd-4fa4-9220-4165328e4823" />
 
 ## 📬 Contact
 
